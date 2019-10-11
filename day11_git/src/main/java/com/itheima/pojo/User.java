@@ -6,6 +6,6 @@ package com.itheima.pojo;
  * @Package com.itheima.pojo
  */
 public class User {
-    Integer id;
+    Integer id;//添加注释
     String username;
 }
