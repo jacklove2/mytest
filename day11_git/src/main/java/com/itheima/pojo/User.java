@@ -7,5 +7,5 @@ package com.itheima.pojo;
  */
 public class User {
     Integer id;//添加注释
-    String username;
+    String username;//年龄
 }
