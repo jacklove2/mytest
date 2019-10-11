@@ -7,5 +7,6 @@ package com.itheima.pojo;
  */
 public class User {
     Integer id;//添加注释
-    String username;//ddddddddd
+    String username;
+    String pwd;
 }
